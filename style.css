@@ -1,0 +1,47 @@
+*{margin: 0; padding: 0;}
+
+.cabecalho {
+    background-color: rgb(179, 112, 255);
+    color: rgb(93, 0, 105);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 2%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+.logo {
+    size: 5%;
+}
+
+.parte1 {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  justify-content: space-around;
+  
+}
+
+.parte2 {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  justify-content: space-around;
+}
+
+img {
+    width: 200px;
+}
+
+.rodape {
+    text-align: end;
+    font-family: cursive;
+}
+.rodape2 {
+    text-align: end;
+    font-family: fantasy;
+}
+
+.rodape3{
+    background-color:  rgb(172, 99, 255) ;
+}
